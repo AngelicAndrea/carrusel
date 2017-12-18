@@ -1,0 +1,26 @@
+.background{
+    background-position: bottom;
+    background-size: cover;
+    position: relative;
+    overflow: hidden;
+    
+}
+#arrow1{
+    font-size: 5em;
+    color: #fff3e0;  
+    cursor: pointer;
+}
+#right-arrow{
+    cursor: pointer;
+}
+.circle{
+    margin-top: 10%;
+}
+.icon{
+    cursor: pointer;
+}
+#arrow2{
+    font-size: 5em;
+    color: #fff3e0;  
+    cursor: pointer;
+}
